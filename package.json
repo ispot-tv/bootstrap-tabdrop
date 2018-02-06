@@ -1,0 +1,11 @@
+{
+  "name": "bootstrap-tabdrop-nav",
+  "version": "0.1.0",
+  "description": "Bootstrap tabdrop is a responsive tab navigation for bootstrap for iSpot.tv",
+  "main": "bootstrap-tabdrop.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ispot-tv/bootstrap-tabdrop"
+  },
+  "license": "The MIT License (MIT)"
+}
